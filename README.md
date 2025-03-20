@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 
-[Watch the video](./Screen Recording 2025-03-20 at 9.23.46 AM.mp4)
+[Watch the video](./Screen Recording 2025-03-20 at 9.23.46 AM.gif)
 
 First, run the development server:
 
