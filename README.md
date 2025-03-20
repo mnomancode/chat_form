@@ -1,6 +1,18 @@
+<!-- // add the screen recording link here displayed on the home page -->
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+
+
+[Watch the video](./Screen Recording 2025-03-20 at 9.23.46 AM.mov)
 
 First, run the development server:
 
