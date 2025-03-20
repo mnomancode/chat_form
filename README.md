@@ -12,7 +12,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 
-[Watch the video](./Screen Recording 2025-03-20 at 9.23.46 AM.gif)
+![Demo](./Screen%20Recording%202025-03-20%20at%209.23.46%20AM.gif)
+
 
 First, run the development server:
 
